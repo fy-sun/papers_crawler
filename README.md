@@ -5,7 +5,7 @@ pip install requests beautifulsoup4 pandas tqdm tenacity
 
 # 使用
 
-**现有三个研究方面的正则项：多模态、分割、多模态&分割**
+**现有四个研究方面的正则项：多模态、分割、多模态&分割、多模态or分割**
 
 **直接替换MULTIMODAL_REGEX(MM_RE)即可**
 
